@@ -1,4 +1,4 @@
-require "spec_helper"
+require "spec_helper.rb"
 
 require_relative "../lib/gilded_rose"
 
